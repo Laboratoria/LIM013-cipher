@@ -10,7 +10,7 @@
 
 El proyecto "Generador de contraseñas" consiste en una aplicación interactiva y amigable con el usuario que  permita generar contraseñas seguras siguiendo el mecanismo del Caesar Cipher o “Cifrado Caesar”.
 
-## RESULTADO FINAL 
+## VISTA PREVIA 
 
 ## INVESTIGACIÓN UX
 
