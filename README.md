@@ -1,14 +1,18 @@
 # GENERADOR DE CONTRASEÑAS
 
+## ¿DE QUÉ TRATA EL PROYECTO?
+
+El proyecto "Generador de contraseñas" consiste en una aplicación interactiva y amigable con el usuario que  permita generar contraseñas seguras siguiendo el mecanismo del Caesar Cipher o “Cifrado Caesar”.
+
+### PLAN DE ACCIÓN 
+* Objetivo principal: Manipulación dinámica del DOM. Para ello,
+* Escuchar eventos del DOM en Index.js que invoque cipher.encode() y cipher.decode() desde cipher.js
+
 ## DESCARGAR
 
 ## INSTALACIÓN
 
 ## EJECUTAR
-
-## ¿DE QUÉ TRATA EL PROYECTO?
-
-El proyecto "Generador de contraseñas" consiste en una aplicación interactiva y amigable con el usuario que  permita generar contraseñas seguras siguiendo el mecanismo del Caesar Cipher o “Cifrado Caesar”.
 
 ## VISTA PREVIA 
 
