@@ -1,0 +1,16 @@
+h1 {
+    color:orangered;
+    font-family:'Franklin Gothic Medium';
+    }
+
+#element-for-modify{
+    color: black;
+}
+
+.element-1{
+    color: black;
+}
+
+.element-1 b:hover{
+    color: red;
+}
