@@ -2,14 +2,17 @@ h1 {
     color:orangered;
     font-family:'Franklin Gothic Medium';
     font-size: 60px;
+    margin: 30px;
     }
 
 #element-for-modify{
     color: black;
+    margin: 30px;
 }
 
-.element-1{
+p{
     color: black;
+    margin: 30px;
 }
 
 
