@@ -31,6 +31,8 @@ El Cipher permite que las contraseñas sean difíciles de hackear, es decir, con
 
 ### Prototipo inicial
 
+![](/protini.jpg)
+
 ### Feedback
 
 ### Prototipo final
