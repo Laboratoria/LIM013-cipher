@@ -1,6 +1,7 @@
 h1 {
     color:orangered;
     font-family:'Franklin Gothic Medium';
+    font-size: 60px;
     }
 
 #element-for-modify{
@@ -11,6 +12,20 @@ h1 {
     color: black;
 }
 
-.element-1 b:hover{
-    color: red;
+
+.square-text__input--active{
+    color: red; 
+    padding: 150px
+}
+
+.square-text__input--results{
+    color:greenyellow; 
+    padding: 150px
+}
+
+.square-text__input--offset{
+    font size: 20px;
+    padding: 10px
+
+
 }
