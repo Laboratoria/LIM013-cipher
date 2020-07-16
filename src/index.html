@@ -3,12 +3,37 @@
   <head>
     <meta charset="utf-8">
     <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <div id="root">
-      <h1>Hello world!</h1>
+      <header>
+        <figure></figure>
+        <h1>GENERADOR DE CONTRASEÑAS</h1>
+        <!--
+        <nav>enlace de navegacion</nav>
+      -->
+      </header>
+      <section>
+        <div>
+          <input type="text" id="texto"></input>
+        </div>
+        <div>
+          <input type="number" id="numero" min="1" max="30" step="1"></input>
+          <button type="button" id="codificar">CODIFICAR</button>
+          <button type="button" id="descodificar">DECODIFICAR</button>
+        </div>
+      </section>
+      <footer>
+        <h3>Texto Original</h3>
+        <p>PALABRA</p>
+        <h3>Texto Codificado</h3>
+        <p>QBMBCSB</p>
+        <!--<h3>Texto Decodificado</h3>-->
+        <p></p>
+      </footer>
     </div>
     <script src="index.js" type="module"></script>
+    <script src="cipher.js"></script>
   </body>
 </html>
