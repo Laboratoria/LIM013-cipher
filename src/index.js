@@ -13,3 +13,5 @@ document.getElementById("DESENCRIPTAR").addEventListener("click", function(){let
 console.log(txt_entrada);})
 
 //capturar offset, luego enviar al cipher.js
+let desplazamiento= document.getElementById("number").value;
+console.log(desplazamiento);
