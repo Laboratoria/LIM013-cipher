@@ -1,34 +1,42 @@
 h1 {
     color:orangered;
-    font-family:'Franklin Gothic Medium';
-    font-size: 60px;
+    font-family:'Bauhaus 93';
+    font-size: 50px;
     margin: 30px;
     }
 
-#element-for-modify{
-    color: black;
-    margin: 30px;
-}
+    /*img{
+        height;
+        width:;
+        margin;
+        display;
+    }*/
 
-p{
-    color: black;
-    margin: 30px;
-}
-
-
-.square-text__input--active{
+      
+    .squareText--active{
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: red; 
-    padding: 150px
-}
+    margin:5px;
+    padding:0;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 12cm; 
+    height: 8cm;
+    }
 
-.square-text__input--results{
-    color:greenyellow; 
-    padding: 150px
-}
+/*Mostramos Cuadro de resultados*/
+/*.squareExit{
+    background: white ;
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:green; 
+    margin: 5px;
+    padding:0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    width: 12cm; height: 8cm;
+    border: grey;
+    }*/
 
-.square-text__input--offset{
-    font size: 20px;
-    padding: 10px
 
-
-}
