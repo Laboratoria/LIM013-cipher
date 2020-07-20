@@ -35,6 +35,14 @@ El Cipher permite que las contraseñas sean difíciles de hackear, es decir, con
 
 ### Feedback
 
+Luego de presentar mi prototipo inicial (en papel) a m familia y compañeras de Laboratoria, reuní las siguientes observaciones:
+
+* La caja de "resultado" no es necesaria, pues ocupa espacio y no se usará todo su espacio para la palabra codifica o decodificada.
+
+* El ingreso del offset era confuso para las personas no familiarizadas con el código César, quienes no veían la utilidad de ese número.
+
+Por ello, para el prototipo final se decidió no dejar un espacio determinado para el resultado, sino que éste aparezca luego de presionar el botón cuando ya se realice la conversión. Además, se podrá un **label** para explicar el offset y su uso.
+
 ### Prototipo final
 
 ![](/protfinal.jpg)
