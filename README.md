@@ -125,8 +125,16 @@ En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proces
 para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
+  Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión
+  tanto para su persona como en sus casas.
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
+  1. Canalizar mensajes de ayuda.
+  2. Disminuir la violencia en los hogares.
+  3. Brindar ayuda psicológica y evitar futuros actos de violencia.
+  
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
+  1. A través de una app, enviar mensajes de ayudar para salvaguardar el bienestar de los niños, 
+     brindandoles ayuda, recepcionando sus mensajes de modo oculto.
 
 ### Interfaz de usuario (UI)
 
