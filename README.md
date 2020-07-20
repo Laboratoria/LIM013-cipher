@@ -37,4 +37,4 @@ El Cipher permite que las contraseñas sean difíciles de hackear, es decir, con
 
 ### Prototipo final
 
-![](/protfin.jpg)
+![](/protfin.png)
