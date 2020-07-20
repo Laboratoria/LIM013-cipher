@@ -7,21 +7,22 @@
   </head>
   
     <body background="https://cdn.lingokids.com/system/images/W1siZiIsIjIwMTgvMDIvMjEvMTEvMDkvMjIvZGE0ZDExNDQtY2RlMC00YmMxLTg3YWMtMDJhMTEzMDJjNzNlLzAwLnBuZyJdXQ/bf1d60deb1b6919a/00.png">
-    <center>
-    <div><img src="" width="" alt=""></div>
-    <div id="root">
+    <div><img src="c5.png" width="30px" height="30px"></div>
+      <center>
+    <div id="root"></div>
       <h1>HOLA JUGADOR!</h1>
-
-      <p><b>Bienvenido a Criptomanía Kids</b></p>
-      <div class="square-text">
-      <input type= "text" class="square-text__input--active"value="">
-      <input type= "text" class="square-text__input--results" id="resultado">
+      <h2>¡Bienvenido a Criptomanía Kids!</h2>
+      <div class="squareText">
+      <textarea type= "text" class="squareText--active" value="" id="txt_inicio"></textarea>
+      <p class="squareExit" id="txt_salida"></p>
     </div>
 
-      <h2><input type= "text" class="square-text__input--offset"value=""></h2>
+      <h2><input type="number" min="-65" max="65" value="" id="desplazamiento"></h2>
       <div></div>
-      <p><button type="submit" onclick="encriptar">JUGAR ENCRIPTAR</button>
-      <button type="submit" onclick="desencriptar">JUGAR DESENCRIPTAR</button>
+      <p>
+      <button type="submit" id="encriptar">JUGAR ENCRIPTAR</button>
+      <button type="submit" id="desencriptar">JUGAR DESENCRIPTAR</button>
+      <button type="submit" id="delete">BORRAR</button>
       </p>
       
     </div>
