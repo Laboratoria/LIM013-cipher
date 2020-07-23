@@ -1,9 +1,52 @@
-import { escapeSelector } from "jquery";
+/*import { escapeSelector } from "jquery";*/
 
 const cipher = {
- 
+  encode: function (offset,string){
+    string = string.toUpperCase();
+    //console.log(offset, string);
+    let resultado = new Array();
+    //guardando valor posicion codigo ascci
+    let posicion = new Array();
+    // recorrer la cadena con un FOR
+    for (let i=0; i<string.length; i++){
+    // obtener el número ASCII de la letra con chartCodeAt()
+    posicion.push(string.charCodeAt(i));
+    //console.log() del elelemnto en la posicion i 
+    //console.log(posicion[i]);
+    // aplicar la fórmula de cifrado de la letra
+    posicion[i]=((posicion[i]-65+offset)%26)+65;
+    // convertir el resultado de la fórmula en letra con fromCartCode()
+    resultado[i]=String.fromCharCode(posicion[i]);
+    }
+    // guardar letra cifrada en variable resultado.
+    //console.log(resultado);
+    return resultado;
+  },
+
+  decode: function (offset,string){
+    string = string.toUpperCase();
+    //console.log(offset, string);
+    let resultado = new Array();
+    //guardando valor posicion codigo ascci
+    let posicion = new Array();
+    // recorrer la cadena con un FOR
+    for (let i=0; i<string.length; i++){
+    // obtener el número ASCII de la letra con chartCodeAt()
+    posicion.push(string.charCodeAt(i));
+    //console.log() del elelemnto en la posicion i 
+    //console.log(posicion[i]);
+    // aplicar la fórmula de descifrado de la letra
+    posicion[i]=(((posicion[i]-65-offset)%26+26)%26)+65;
+    // convertir el resultado de la fórmula en letra con fromCartCode()
+    resultado[i]=String.fromCharCode(posicion[i]);
+    }
+    // guardar letra cifrada en variable resultado.
+    //console.log(resultado);
+    return resultado;
+  }
 };
 export default cipher;
+
 //estructura de objetos, que va a guardar encode y decode
 // export default cipher;
 //- `cipher.encode(offset, string)`: `offset` es el número de posiciones que
@@ -33,31 +76,3 @@ ejm:
 */
 
 //Función cifrado: cipher.encode(offset, string)
-
-function cifrar(offset,string){
-    console.log(offset, string)
-    let resultado = '';
-    // recorrer la cadena con un FOR
-    for (let i = string.length -1; i=>0; i++){
-        console.log(string[i]);
-    }
-  
-      // console.log() del elelemnto en la posición i 
-  
-      // obtener el número ASCII de la letra con chartCodeAt()
-  
-      // aplicar la fórmula de cifrado de la letra
-  
-      // convertir el resultado de la fórmula en letra con fromCartCodeAt()
-  
-      // guardar letra cifrada en variable resultado.
-  
-    console.log(resultado);
-    return resultado;
-  }
-  
-  let abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-  let desplazamiento = 3;
-  
-  cifrar(desplazamiento, abc);    
-  
