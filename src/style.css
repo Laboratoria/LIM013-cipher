@@ -2,41 +2,96 @@ h1 {
     color:orangered;
     font-family:'Bauhaus 93';
     font-size: 50px;
-    margin: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
     }
+h2 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+    }
+.imagen{
+    height: 120px;
+    width: 260px;
+    margin: 5px;
+    display: block;
+    border-radius: 5px;
+    }
+ 
+.container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+#txt_inicio{
 
-    /*img{
-        height;
-        width:;
-        margin;
-        display;
-    }*/
-
-      
-    .squareText--active{
     font-size:20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: red; 
-    margin:5px;
+    color: grey; 
     padding:0;
     border-radius: 5px;
     box-sizing: border-box;
-    width: 12cm; 
+    width: 50%;
     height: 8cm;
+    margin: 0px 5px 0px 0px;
     }
 
 /*Mostramos Cuadro de resultados*/
-.squareExit{
+#txt_salida{
     background: white ;
     font-size:20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color:green; 
-    margin: 5px;
+    color:black; 
     padding:0;
     border-radius: 3px;
     box-sizing: border-box;
-    width: 12cm; height: 8cm;
-    border: grey;
+    height: 8cm;
+    width: 50%;
+    margin:0px 0px 0px 5px;
     }
 
+#desplazamiento{
+    background-attachment: fixed;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border-radius: 3px;
+    }
 
+#encriptar{
+    background-attachment: fixed;
+    background: orangered;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    }
+
+#desencriptar{
+    background-attachment: fixed;
+    background: green;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    }
+#delete{
+    background-attachment: fixed;
+    background: yellow;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 3px;
+    }

@@ -1,14 +1,11 @@
-/*const cipher = {
- 
-};
-export default cipher;*/
-//estructura de objetos, que va a guardar encode y decode
+import { escapeSelector } from "jquery";
+
 const cipher = {
  
 };
-
+export default cipher;
+//estructura de objetos, que va a guardar encode y decode
 // export default cipher;
-
 //- `cipher.encode(offset, string)`: `offset` es el número de posiciones que
 //queremos mover a la derecha en el alfabeto y `string` el mensaje (texto)
 //que queremos cifrar
@@ -28,12 +25,6 @@ ASCII
 A  B  C  D  E  F  G  H  I  J   K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90
 
-"A".chartCodeAt (0) = 65
-"B".chartCodeAt (1) = 66
-"C".chartCodeAt (2) = 67
-String.fromCharCode(72)
-desplazamiento: 
-
 ASCII
 ((códigoLetraAscci-codigoPrimeraLetraAscci+desplazamiento1abc)%tamañoAlfabeto)+65   */
 /*El 65 al final es el código de la primera letra, es para obtener el código ASCII
@@ -41,43 +32,32 @@ ejm:
 (75+65+5)
 */
 
+//Función cifrado: cipher.encode(offset, string)
 
-let ABC = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
-
-//Función cifrado
-function encode(offset, string){
-    let offset = document.getElementById("desplazamiento").value;
-    let string = document.getElementById("txt_entrada").value;
-    let ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-}
-    console.log('hola mundo');
-
-
-/*encode(3, 'D')
-    let offset = document.getElementById("3").value;
-    let string = document.getElementById("D").value;
-
-    console.log('hola mundo')*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Función descifrado
-/*function decode(offset, string){
-    console.log('hola mundo')
-}
-
-
-encode(3, 'D')*/
+function cifrar(offset,string){
+    console.log(offset, string)
+    let resultado = '';
+    // recorrer la cadena con un FOR
+    for (let i = string.length -1; i=>0; i++){
+        console.log(string[i]);
+    }
+  
+      // console.log() del elelemnto en la posición i 
+  
+      // obtener el número ASCII de la letra con chartCodeAt()
+  
+      // aplicar la fórmula de cifrado de la letra
+  
+      // convertir el resultado de la fórmula en letra con fromCartCodeAt()
+  
+      // guardar letra cifrada en variable resultado.
+  
+    console.log(resultado);
+    return resultado;
+  }
+  
+  let abc = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  let desplazamiento = 3;
+  
+  cifrar(desplazamiento, abc);    
+  
