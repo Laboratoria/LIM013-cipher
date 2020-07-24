@@ -1,15 +1,9 @@
-/*import cipher from './cipher.js';
-
-console.log('cipher   c ');
-*/
 
 import cipher from './cipher.js';
 //console.log('cipher   c ');
-//escuchar eventos del DOM, invocar `cipher.encode()`
-//o `cipher.decode()` según sea necesario y actualizar el resultado en la UI.
 
 //crear variable para traer el cuadro de texto del html
-//let txt_entrada= document.getElementById("txt_inicio");
+let txt_entrada= document.getElementById("txt_inicio");
 
 //Dar funciones a los botones en HTML
 //boton encriptar
@@ -24,7 +18,7 @@ let texto = txt_entrada.value;
 //Crear un array para guardar resultado que nos retorna el metodo encode
 let resultado = new Array();
 resultado = cipher.encode(desplazamiento, texto);
-document.getElementById("txt_salida").innerHTML=resultado.join("");
+document.getElementById("txt_salida").textContent=resultado.join("");
 
 })
 //boton desencriptar
@@ -39,7 +33,9 @@ let texto = txt_entrada.value;
 //Crear un array para guardar resultado que nos retorna el metodo encode
 let resultado = new Array();
 resultado = cipher.decode(desplazamiento, texto);
-document.getElementById("txt_salida").innerHTML=resultado.join("");
+document.getElementById("txt_salida").textContent=resultado.join("");
+//en lugar de poner inneHTML, se reemplaza por textContent, ya que el inner,
+//es más para agregar en html
 
 })
 
