@@ -8,32 +8,46 @@
   <body>
     <div id="root">
       <header>
-        <figure></figure>
-        <h1>GENERADOR DE CONTRASEÑAS</h1>
-        <!--
-        <nav>enlace de navegacion</nav>
-      -->
+        <h1> GENERADOR DE CONTRASEÑAS</h1>
+        <p><i>Crea mejores contraseñas, mantén tus cuentas seguras</i></p>
       </header>
       <section>
-        <div>
-          <input type="text" id="texto"></input>
-        </div>
-        <div>
-          <input type="number" id="numero" min="1" max="30" step="1"></input>
-          <button type="button" id="codificar">CODIFICAR</button>
-          <button type="button" id="descodificar">DECODIFICAR</button>
-        </div>
+          <div>
+            <input type="text" id="txt" placeholder="Ingrese texto aquí..."></input>
+            <label for="num"><strong>OFFSET </strong><input type="number" id="num" min="0" step="1"></input></label>
+            <button type="button" class="encode" id="encode">CODIFICAR</button>
+            <button type="button" class="decode" id="decode">DECODIFICAR</button>
+          </div>
+          <div class="bigQuestion">
+            <div class="icon">
+              <p class="questionIcon">?</p>
+            </div>
+            <div class="question">
+              <div>
+                <p><strong>¿Qué es el offset? </strong>Cada letra se desplaza "x" espacios hacia la derecha en el alfabeto.</p>
+              </div>
+              <div>
+                <p><i><strong>Por ejemplo.</strong> Con un offset de 3, la letra "A" avanza 3 espacios y se convierte en "D".</i></p>
+              </div>
+            </div>
+          </div>
       </section>
       <footer>
-        <h3>Texto Original</h3>
-        <p>PALABRA</p>
-        <h3>Texto Codificado</h3>
-        <p>QBMBCSB</p>
-        <!--<h3>Texto Decodificado</h3>-->
-        <p></p>
+        <div class="flex">
+          <div class="lock">
+            <img src="resultado.svg" width="75px" height="75px"/>
+          </div>
+          <div class="resulText">
+            <div>
+              <h2>TEXTO CODIFICADO / DECODIFICADO </h2>
+            </div>
+            <div class="resultado">
+              <h3 id=resultado></h3>
+            </div>
+          </div>
+        </div>
       </footer>
     </div>
     <script src="index.js" type="module"></script>
-    <script src="cipher.js"></script>
   </body>
 </html>

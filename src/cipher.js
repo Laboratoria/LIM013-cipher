@@ -1,26 +1,27 @@
 const cipher = {
-  let offset = document.getElementById('numero').value;
-  let str = document.getElementById('text').value;
-  let newStr = '';
-
-
-  encode = function (offset, str) {
-      for (let i=0; i<str; i++) {
-        let currentLetter = str [i];
-        if (currentLetter==='') {
-          newString += currentLetter;
-          continue;
-        let convert = [(str.charCodeAt (0))-65+ offset]%26 +65
-        let result = str.fromCharCode(convert);
+  encode : function (offset, str) {
+      let x = [];
+      for (let i=0; i<str.length; i++) {
+        if(str.charCodeAt(i)>=65 && str.charCodeAt(i)<=90){
+          x [i] = ((str.charCodeAt (i))-65+ offset)%26 +65
+          } else {
+              x[i]= str.charCodeAt (i);
+            }
         }
+        return x;
+  },
+
+  decode : function (offset, str) {
+    let x = [];
+    for (let i=0; i<str.length; i++) {
+      if(str.charCodeAt(i)>=65 && str.charCodeAt(i)<=90){
+        x [i] = ((str.charCodeAt (i))-65- offset)%26 +65
+        } else {
+            x[i]= str.charCodeAt (i);
+          }
       }
-    }
-
-  decode = function (offset, str) {
-    let deconvert = [(str.charCodeAt (0))-65- offset]%26 +65
-    let result = str.fromCharCode(deconvert);
-    }
-
+      return x;
+  }
 };
 
 export default cipher;
