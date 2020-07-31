@@ -19,7 +19,7 @@ const cipher = {
           x [i] = ((str.charCodeAt (i))-65- offset)%26 +65
         }
         else {
-          x [i] = ((str.charCodeAt (i))-65- offset)%26 +65+26
+          x [i] = (((str.charCodeAt (i))-65- offset)%26+26)%26+65
         }
       }
         else {
