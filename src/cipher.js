@@ -20,7 +20,7 @@ const cipher = {
     }
     // guardar letra cifrada en variable resultado.
     //console.log(resultado);
-    return resultado;
+    return resultado.join("");
   },
 
   decode: function (offset,string){
@@ -42,7 +42,7 @@ const cipher = {
     }
     // guardar letra cifrada en variable resultado.
     //console.log(resultado);
-    return resultado;
+    return resultado.join("");
   }
 };
 export default cipher;

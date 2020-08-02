@@ -3,30 +3,37 @@
   <head>
     <meta charset="utf-8">
     <title>Cesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
   </head>
   
     <body background="https://cdn.lingokids.com/system/images/W1siZiIsIjIwMTgvMDIvMjEvMTEvMDkvMjIvZGE0ZDExNDQtY2RlMC00YmMxLTg3YWMtMDJhMTEzMDJjNzNlLzAwLnBuZyJdXQ/bf1d60deb1b6919a/00.png">
-    <div><img class="imagen" src="Imagen\logo.jpeg"></div>
+    <header><img class="imagen" src="Imagen\logo.png"></header>
       
-    <div id="root"></div>
+    <div id="root">
       <h1>HOLA JUGADOR!</h1>
       <h2>¡Bienvenido a Criptomanía Kids!</h2>
       <div class="container">
-        <textarea class="text" value="" id="txt_inicio"></textarea>
+        <textarea class="text" value="" id="txt_inicio" placeholder="Ingresa texto"></textarea>
+        <p>
+          <button type="submit" id="encriptar">JUGAR CIFRAR</button>
+          <button type="submit" id="desencriptar">JUGAR DESCIFRAR</button>
+          <button type="submit" id="delete">BORRAR</button>
+          <input type="number" min="-127" max="127" value="" id="desplazamiento" placeholder="Elige número">   
+          <img class="imagen1" src="Imagen\icon.png"> 
+        </p>
         <p class="text" id="txt_salida"></p>
       </div>
-
-      <h3><input type="number" min="-127" max="127" value="" id="desplazamiento"></h3>
-      <div></div>
-      <p>
-      <button type="submit" id="encriptar">JUGAR ENCRIPTAR</button>
-      <button type="submit" id="desencriptar">JUGAR DESENCRIPTAR</button>
-      <button type="submit" id="delete">BORRAR</button>
-      </p>
-      
     </div>
-  
+    <aside>
+      <div>
+        <img src="Imagen/anuncio.png" width="200" heigth="200">
+      </div> 
+    </aside>
+
+    <footer>
+      <p>&#169; 2020</p>
+    </footer>
     <script src="index.js" type="module"></script>
   </body>
 </html>
