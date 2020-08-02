@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1596327028312" clover="3.2.0">
-  <project timestamp="1596327028312" name="All files">
+<coverage generated="1596331480944" clover="3.2.0">
+  <project timestamp="1596331480944" name="All files">
     <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2" elements="19" coveredelements="19" complexity="0" loc="17" ncloc="17" packages="1" files="1" classes="1"/>
     <file name="cipher.js" path="C:\Users\Windows10\Documents\PROYECTO 1\LIM013-cipher\src\cipher.js">
       <metrics statements="17" coveredstatements="17" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
