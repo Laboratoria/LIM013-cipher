@@ -13,14 +13,15 @@ const cipher = {
     posicion.push(string.charCodeAt(i));
     //console.log() del elelemnto en la posicion i 
     //console.log(posicion[i]);
-    if(posicion[i] != 32){
+    if (posicion[i] != 32){
     // aplicar la fórmula de cifrado de la letra
     posicion[i]=((posicion[i]-65+offset)%26)+65;
     // convertir el resultado de la fórmula en letra con fromCartCode()
     resultado[i]=String.fromCharCode(posicion[i]);
-    } else{
+    } else {
       resultado[i]=" ";
     }
+    
   }
     // guardar letra cifrada en variable resultado.
     //console.log(resultado);
@@ -39,11 +40,16 @@ const cipher = {
     posicion.push(string.charCodeAt(i));
     //console.log() del elelemnto en la posicion i 
     //console.log(posicion[i]);
+    if (posicion[i] !=32){
     // aplicar la fórmula de descifrado de la letra
     posicion[i]=(((posicion[i]-65-offset)%26+26)%26)+65;
     // convertir el resultado de la fórmula en letra con fromCartCode()
     resultado[i]=String.fromCharCode(posicion[i]);
+    } else {
+      resultado [i]=" ";
     }
+    
+  }
     // guardar letra cifrada en variable resultado.
     //console.log(resultado);
     return resultado.join("");
