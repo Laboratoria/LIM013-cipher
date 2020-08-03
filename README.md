@@ -125,16 +125,16 @@ En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proces
 para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
-  Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión
-  tanto para su persona como en sus casas.
+  Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
   1. Canalizar mensajes de ayuda.
   2. Disminuir la violencia en los hogares.
   3. Brindar ayuda psicológica y evitar futuros actos de violencia.
   
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
-  1. A través de una app, enviar mensajes de ayudar para salvaguardar el bienestar de los niños, 
-     brindandoles ayuda, recepcionando sus mensajes de modo oculto.
+  1. A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
+  encriptando sus mensajes para evitar ser descubiertos por su agresor.
+  Ministerio de protección del niño, niña y adolescente)
 
 ### Interfaz de usuario (UI)
 
@@ -154,8 +154,27 @@ La interfaz debe permitir al usuario:
 Debe contener lo siguiente:
 
 * Un título con el nombre de tu proyecto.
+  CRIPTOMANÍA KIDS
+
 * Explicar cómo descargar, instalar y ejecutar la aplicación
   así como una introducción.
+  El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para darle mayor seguridad.
+
+  INSTRUCCIONES DE USO:
+  * PASOS PARA CIFRAR
+  1. Escribe lo que deseas cifar.
+  2. Elige tu número favorito
+  3. Dale click en el botón "JUGAR CIFRAR"
+  4. Verás el mensaje cifrado
+  5. Darle al botón enviar
+
+  * PASOS PARA DESCIFRAR
+  1. Escribe lo que deseas descifar.
+  2. Elige tu número favorito
+  3. Dale click en el botón "JUGAR DESCIFRAR"
+  4. Verás el mensaje descifrado
+  5. Darle al botón enviar
+  
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
 * La imagen final de tu proyecto.
 * Investigación UX:
@@ -166,6 +185,20 @@ Debe contener lo siguiente:
   3. Luego colocarás la foto de tu primer prototipo en papel.
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
   5. Imagen del prototipo final.
+
+
+  * A continuación EL FLUJO DEL PROYECTO
+  ![diagrama](Imagen\diagrama.png)
+
+  * PRIMER PROTOTIPO DE PAPEL
+  ![Primer prototipo](Imagen\Primerprototipo.jpeg)
+
+  ---
+  Este es el prototipo final de mi proyecto, realizado en balsamiq
+  ![Prototipo final](Imagen\balsamiq.png)
+
+
+
 
 ##### `src/index.html` 
 
