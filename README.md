@@ -193,29 +193,29 @@ Debe contener lo siguiente:
 
   3. Luego colocarás la foto de tu primer prototipo en papel.
   * PRIMER PROTOTIPO DE PAPEL
-  ![Primer prototipo](Imagen\Primerprototipo.jpeg)
+  >![Primer prototipo](Imagen\Primerprototipo.jpeg)
 
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
-  >El feedback en cuanto al proyecto: 
-  -Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
-  -Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
-  -En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
-  -En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
+  ##El feedback en cuanto al proyecto: 
+  >Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
+  >Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
+  >En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
+  >En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
   Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto. 
 
   ***En casa testee el proyecto con mi hijo, con mi pareja y mi suegra. A mi hijo le gustó y dijo que parecía un juego***
 
   5. Imagen del prototipo final.
-  Este es el prototipo final de mi proyecto, realizado en balsamiq
-  ![Prototipo final](Imagen/balsamiq.png)
+  >Este es el prototipo final de mi proyecto, realizado en balsamiq
+  >![Prototipo final](Imagen/balsamiq.png)
 
   * A continuación EL FLUJO DEL PROYECTO
-  ![diagrama](Imagen/diagrama.png)
+  >![diagrama](Imagen/diagrama.png)
 
   ---
   >Cada día aprendo más, aunque muchas veces me encontré en la parte roja del garabato, gracias a las coachs, pude salir de ello, y a que leí.
-  
+
   ***¡Sé que puedo dar más, seguiré esforzándome!***
   
 
