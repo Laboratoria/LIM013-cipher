@@ -193,6 +193,7 @@ Debe contener lo siguiente:
 
   3. Luego colocarás la foto de tu primer prototipo en papel.
   * PRIMER PROTOTIPO DE PAPEL
+
   >![Primer prototipo](Imagen\Primerprototipo.jpeg)
 
   4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
@@ -207,7 +208,8 @@ Debe contener lo siguiente:
   ***En casa testee el proyecto con mi hijo, con mi pareja y mi suegra. A mi hijo le gustó y dijo que parecía un juego***
 
   5. Imagen del prototipo final.
-  >Este es el prototipo final de mi proyecto, realizado en balsamiq
+  
+  * Este es el prototipo final de mi proyecto, realizado en balsamiq
   >![Prototipo final](Imagen/balsamiq.png)
 
   * A continuación EL FLUJO DEL PROYECTO
