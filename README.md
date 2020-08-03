@@ -125,16 +125,8 @@ En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proces
 para definir el producto final a nivel de experiencia y de interfaz.
 
 * Quiénes son los principales usuarios de producto.
-  Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
 * Cuáles son los objetivos de estos usuarios en relación con tu producto.
-  1. Canalizar mensajes de ayuda.
-  2. Disminuir la violencia en los hogares.
-  3. Brindar ayuda psicológica y evitar futuros actos de violencia.
-  
 * Cómo crees que el producto que estás creando está resolviendo sus problemas.
-  1. A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
-  encriptando sus mensajes para evitar ser descubiertos por su agresor.
-  Ministerio de protección del niño, niña y adolescente)
 
 ### Interfaz de usuario (UI)
 
@@ -154,48 +146,78 @@ La interfaz debe permitir al usuario:
 Debe contener lo siguiente:
 
 * Un título con el nombre de tu proyecto.
-  CRIPTOMANÍA KIDS
+  #CRIPTOMANÍA KIDS
 
 * Explicar cómo descargar, instalar y ejecutar la aplicación
   así como una introducción.
-  El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para darle mayor seguridad.
+  *En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.*
 
-  INSTRUCCIONES DE USO:
-  * PASOS PARA CIFRAR
-  1. Escribe lo que deseas cifar.
-  2. Elige tu número favorito
-  3. Dale click en el botón "JUGAR CIFRAR"
-  4. Verás el mensaje cifrado
-  5. Darle al botón enviar
+  ***¿Cómo descargar la app Criptomanía-Kids***
 
-  * PASOS PARA DESCIFRAR
-  1. Escribe lo que deseas descifar.
-  2. Elige tu número favorito
-  3. Dale click en el botón "JUGAR DESCIFRAR"
-  4. Verás el mensaje descifrado
-  5. Darle al botón enviar
+  > INSTRUCCIONES DE USO:
+  *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
+
+  1. PASOS PARA CIFRAR
+    - Escribe lo que deseas cifar.
+    - Elige tu número favorito
+    - Dale click en el botón "JUGAR CIFRAR"
+    - Verás el mensaje cifrado
+    - Darle al botón enviar
+  ---
+
+  2. PASOS PARA DESCIFRAR
+    - Escribe lo que deseas descifar.
+    - Elige tu número favorito
+    - Dale click en el botón "JUGAR DESCIFRAR"
+    - Verás el mensaje descifrado
+    - Darle al botón enviar
   
 * Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
+ > El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para darle mayor seguridad.
+
 * La imagen final de tu proyecto.
 * Investigación UX:
   1. Explicar quiénes son los usuarios y los objetivos en relación con el
     producto.
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos
-    usuarios.
+  >Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
+
+  *OBJETIVO*
+  >A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
+  encriptando sus mensajes para evitar ser descubiertos por su agresor.
+  Ministerio de protección del niño, niña y adolescente)
+
+  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+  > Canalizar mensajes de ayuda.
+  > Disminuir la violencia en los hogares.
+  > Brindar ayuda psicológica y evitar futuros actos de violencia.
+
   3. Luego colocarás la foto de tu primer prototipo en papel.
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
-  5. Imagen del prototipo final.
-
-
-  * A continuación EL FLUJO DEL PROYECTO
-  ![diagrama](Imagen\diagrama.png)
-
   * PRIMER PROTOTIPO DE PAPEL
   ![Primer prototipo](Imagen\Primerprototipo.jpeg)
 
-  ---
+  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
+
+  >El feedback en cuanto al proyecto: 
+  -Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
+  -Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
+  -En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
+  -En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
+  Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto. 
+
+  ***En casa testee el proyecto con mi hijo, con mi pareja y mi suegra. A mi hijo le gustó y dijo que parecía un juego***
+
+  5. Imagen del prototipo final.
   Este es el prototipo final de mi proyecto, realizado en balsamiq
-  ![Prototipo final](Imagen\balsamiq.png)
+  ![Prototipo final](Imagen/balsamiq.png)
+
+  * A continuación EL FLUJO DEL PROYECTO
+  ![diagrama](Imagen/diagrama.png)
+
+  ---
+  >Cada día aprendo más, aunque muchas veces me encontré en la parte roja del garabato, gracias a las coachs, pude salir de ello, y a que leí.
+  
+  ***¡Sé que puedo dar más, seguiré esforzándome!***
+  
 
 
 
