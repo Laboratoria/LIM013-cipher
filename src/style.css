@@ -2,16 +2,14 @@ h1 {
     color:orangered;
     font-family:'Bauhaus 93';
     font-size: 50px;
-    margin: 3% 30% 0% 35%;
-    transform: translateX(-50px) translateY(-50px);
+    margin: 0% 20% 0% 20%;
     text-align: center;
     }
 h2 {
     color:black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 22px;
-    margin: 2% 30% 2% 35%;
-    transform: translateX(-50px) translateY(-50px);
+    margin: 0% 20% 2% 20%;
     text-align: center;
     }
 h3 {
@@ -29,10 +27,8 @@ h3 {
 .imagen1{
     height: 120px;
     width: 120px;
-    margin: 0px 20px 0px 140px;
-    display: block;
+    margin: 0% 0% 0% 0%;
     border-radius: 5px;
-    
 }
 
 .container{
@@ -49,7 +45,7 @@ h3 {
     border-radius: 5px;
     box-sizing: border-box;
     width: 50%;
-    height: 8cm;
+    height: 10cm;
     margin: 0px 5px 0px 0px;
     }
 
@@ -62,7 +58,7 @@ h3 {
     padding:0;
     border-radius: 3px;
     box-sizing: border-box;
-    height: 8cm;
+    height: 10cm;
     width: 50%;
     margin:0px 0px 0px 5px;
     }
@@ -79,7 +75,7 @@ h3 {
     margin: 0px 0px 5px 0px;
     }
 p{
-    margin: 0% 10% 0% 10%;
+    margin: 0% 20% 0% 20%;
     text-align: center;
 }
 
