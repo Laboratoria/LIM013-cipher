@@ -9,6 +9,7 @@ import cipher from '../src/cipher';
 describe('cipher', () => {
 
   it('should be an object', () => {
+    //expectativa de tu proyecto
     expect(typeof cipher).toBe('object');
   });
 

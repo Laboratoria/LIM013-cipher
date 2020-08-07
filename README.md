@@ -40,7 +40,7 @@ comunicación por sí mismos; el cifrado César sí puede formar parte de sistem
 más complejos de codificación, como el cifrado Vigenère, e incluso tiene
 aplicación en el sistema ROT13.
 
-## 2. Resumen del proyecto
+## 2. EL PROYECTO
 
 ¿Qué tengo que hacer exactamente? En este proyecto crearás una aplicación
 web que servirá para que el usuario pueda cifrar y descifrar un texto indicando
@@ -143,16 +143,12 @@ La interfaz debe permitir al usuario:
 
 ##### `README.md`
 
-Debe contener lo siguiente:
-
-* Un título con el nombre de tu proyecto.
+A continuación
   #CRIPTOMANÍA KIDS
 
-* Explicar cómo descargar, instalar y ejecutar la aplicación
-  así como una introducción.
-  *En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.*
+* **En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.**
 
-  ***¿Cómo descargar la app Criptomanía-Kids***
+  ***¿Cómo usar la app Criptomanía-Kids***
 
   > INSTRUCCIONES DE USO:
   *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
@@ -181,7 +177,6 @@ Debe contener lo siguiente:
     producto.
   >Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
 
-  *OBJETIVO*
   >A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
   encriptando sus mensajes para evitar ser descubiertos por su agresor.
   Ministerio de protección del niño, niña y adolescente)
@@ -191,12 +186,10 @@ Debe contener lo siguiente:
   > Disminuir la violencia en los hogares.
   > Brindar ayuda psicológica y evitar futuros actos de violencia.
 
-  3. Luego colocarás la foto de tu primer prototipo en papel.
   * PRIMER PROTOTIPO DE PAPEL
   >Mi primer prototio en papel, teniendo en cuenta las historias de usuario
   >![Primer prototipo](src\Imagen\Primerprototipo.jpeg)
 
-  4. Agregar un resumen del feedback recibido indicando las mejoras a realizar.
 
   ##El feedback en cuanto al proyecto: 
   * Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
@@ -205,7 +198,7 @@ Debe contener lo siguiente:
   * En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
   Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto. 
 
-  ***En casa testee el proyecto con mi hijo, con mi pareja y mi suegra. A mi hijo le gustó y dijo que parecía un juego***
+  ***En casa testee el proyecto con mi hijo, al cual le gustó y dijo que parecía un juego***
 
   5. Imagen del prototipo final.
   
