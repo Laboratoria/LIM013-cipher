@@ -182,16 +182,17 @@ A continuación
   Ministerio de protección del niño, niña y adolescente)
 
   2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
-  > Canalizar mensajes de ayuda.
-  > Disminuir la violencia en los hogares.
-  > Brindar ayuda psicológica y evitar futuros actos de violencia.
+  - Canalizar mensajes de ayuda.
+  - Disminuir la violencia en los hogares.
+  - Brindar ayuda psicológica y evitar futuros actos de violencia.
 
-  * PRIMER PROTOTIPO DE PAPEL
-  >Mi primer prototio en papel, teniendo en cuenta las historias de usuario
-  >![Primer prototipo](src\Imagen\Primerprototipo.jpeg)
+  ### PRIMER PROTOTIPO DE PAPEL
+  -Mi primer prototio en papel, teniendo en cuenta las historias de usuario
+
+  - ![Primer prototipo](Imagen/Primerprototipo.jpeg)
 
 
-  ##El feedback en cuanto al proyecto: 
+  ### El feedback en cuanto al proyecto: 
   * Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
   * Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
   * En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
@@ -200,13 +201,13 @@ A continuación
 
   ***En casa testee el proyecto con mi hijo, al cual le gustó y dijo que parecía un juego***
 
-  5. Imagen del prototipo final.
+  ### Imagen del prototipo final.
   
-  * Este es el prototipo final de mi proyecto, realizado en balsamiq
-  - ![Prototipo final](src\Imagen/balsamiq.png)
+  - Este es el prototipo final de mi proyecto, realizado en balsamiq
+  - ![Prototipo final](Imagen/balsamiq.png)
 
-  * A continuación EL FLUJO DEL PROYECTO
-  - ![diagrama](src\Imagen/diagrama.png)
+  ### EL FLUJO DEL PROYECTO
+  - ![Diagrama](Imagen/diagrama.png)
 
   ---
   >Cada día aprendo más, aunque muchas veces me encontré en la parte roja del garabato, gracias a las coachs, pude salir de ello, y a que leí.
