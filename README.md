@@ -57,103 +57,16 @@ ejemplo:
   una zona de conflicto.
 * Mensajería secreta para parejas.
 
-## 3. Objetivos de aprendizaje
+### CRIPTOMANÍA KIDS
 
-Aprenderás a construir una aplicación web que interactuará
-con lx usuarix final a través del navegador, utilizando HTML, CSS y JavaScript
-como tecnologías.
+**En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.**
 
-### HTML y CSS
+  ## 3. ¿Cómo usar la app Criptomanía-Kids***
 
-* [ ] [Uso de HTML semántico.](https://developer.mozilla.org/en-US/docs/Glossary/Semantics#Semantics_in_HTML)
-* [ ] Uso de selectores de CSS.
-* [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
-
-### DOM
-
-* [ ] Uso de selectores del DOM.
-* [ ] Manejo de eventos del DOM.
-* [ ] [Manipulación dinámica del DOM.](https://developer.mozilla.org/es/docs/Referencia_DOM_de_Gecko/Introducci%C3%B3n)
-(appendChild |createElement | createTextNode| innerHTML | textContent | etc.)
-
-### JavaScript
-
-* [ ] Manipulación de strings.
-* [ ] Uso de condicionales (if-else | switch | operador ternario)
-* [ ] Uso de bucles (for | for..in | for..of | while)
-* [ ] Uso de funciones (parámetros | argumentos | valor de retorno)
-* [ ] Declaración correcta de variables (const & let)
-
-### Testing
-
-* [ ] [Testeo unitario.](https://jestjs.io/docs/es-ES/getting-started)
-
-### Estructura del código y guía de estilo
-
-* [ ] Organizar y dividir el código en módulos (Modularización)
-* [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica)
-* [ ] Uso de linter (ESLINT)
-
-### Git y GitHub
-
-* [ ] Uso de comandos de git (add | commit | pull | status | push)
-* [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages)
-
-### UX
-
-* [ ] Diseñar la aplicación pensando y entendiendo al usuario.
-* [ ] Crear prototipos para obtener feedback e iterar.
-* [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía)
-
-## 4. Consideraciones generales
-
-* El equipo de coaches te dará un tiempo sugerido e indicaciones sobre si trabajar
-  sola o en equipo. Recuerda que cada una aprende a diferente ritmo.
-* El proyecto será entregado subiendo tu código a GitHub (commit/push) y la
-  interfaz será desplegada usando GitHub pages. Si no sabes lo que es GitHub, no
-  te preocupes, lo aprenderás durante este proyecto.
-
-## 5. Criterios de aceptación mínimos del proyecto
-
-Usa este alfabeto simple (solamente mayúsculas y sin ñ):
-
-* A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-
-### Definición del producto
-
-En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
-para definir el producto final a nivel de experiencia y de interfaz.
-
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
-
-### Interfaz de usuario (UI)
-
-La interfaz debe permitir al usuario:
-
-* Elegir un desplazamiento (_offset_) indicando cuántas posiciones queremos que
-  el cifrado desplace cada caracter.
-* Insertar un mensaje (texto) que queremos cifrar.
-* Ver el resultado del mensaje cifrado.
-* Insertar un mensaje (texto) a descifrar.
-* Ver el resultado del mensaje descifrado.
-
-### Scripts / Archivos
-
-##### `README.md`
-
-A continuación
-  #CRIPTOMANÍA KIDS
-
-* **En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.**
-
-  ***¿Cómo usar la app Criptomanía-Kids***
-
-  > INSTRUCCIONES DE USO:
+  - INSTRUCCIONES DE USO:
   *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
 
-  1. PASOS PARA CIFRAR
+  ### 1.PASOS PARA CIFRAR
     - Escribe lo que deseas cifar.
     - Elige tu número favorito
     - Dale click en el botón "JUGAR CIFRAR"
@@ -161,32 +74,31 @@ A continuación
     - Darle al botón enviar
   ---
 
-  2. PASOS PARA DESCIFRAR
+  ### 2.PASOS PARA DESCIFRAR
     - Escribe lo que deseas descifar.
     - Elige tu número favorito
     - Dale click en el botón "JUGAR DESCIFRAR"
     - Verás el mensaje descifrado
     - Darle al botón enviar
   
-* Un resumen de 1 o 2 líneas de qué se trata tu proyecto.
- > El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para darle mayor seguridad.
 
-* La imagen final de tu proyecto.
-* Investigación UX:
-  1. Explicar quiénes son los usuarios y los objetivos en relación con el
-    producto.
+ - El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la 
+ idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al 
+ gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para 
+ darle mayor seguridad.
+
   >Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
 
   >A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
   encriptando sus mensajes para evitar ser descubiertos por su agresor.
   Ministerio de protección del niño, niña y adolescente)
 
-  2. Explicar cómo el producto soluciona los problemas/necesidades de dichos usuarios.
+  - El producto soluciona los problemas/necesidades de dichos usuarios, considerando lo sgte:
   - Canalizar mensajes de ayuda.
   - Disminuir la violencia en los hogares.
   - Brindar ayuda psicológica y evitar futuros actos de violencia.
 
-  ### PRIMER PROTOTIPO DE PAPEL
+  ### 4.PRIMER PROTOTIPO DE PAPEL
   -Mi primer prototio en papel, teniendo en cuenta las historias de usuario
 
   - ![Primer prototipo](Imagen/Primerprototipo.jpeg)
