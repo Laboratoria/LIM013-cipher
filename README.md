@@ -4,12 +4,9 @@
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Consideraciones técnicas](#7-consideraciones-técnicas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
+* [3. Uso de la app](#3-Uso-de-la-App)
+* [4. Prototipo de papel](#4-Prototipo-de-papel)
+* [5. Prototipo Balsamiq](#5-Prototipo-Balsamiq)
 
 ***
 
@@ -42,31 +39,25 @@ aplicación en el sistema ROT13.
 
 ## 2. EL PROYECTO
 
-¿Qué tengo que hacer exactamente? En este proyecto crearás una aplicación
+En este proyecto crearé una aplicación
 web que servirá para que el usuario pueda cifrar y descifrar un texto indicando
 un desplazamiento específico de caracteres (_offset_).
 
-La temática es libre. Tú debes pensar en qué situaciones de la vida real se
-necesitaría cifrar un mensaje y pensar en cómo debe ser esa experiencia de uso
-(qué pantallas, explicaciones, mensajes, colores, ¿marca?) etc. Algunas ideas de
-ejemplo:
+La temática es kids, una web disfrazada de juego para: 
 
-* Crear claves seguras para el email.
-* Encriptar/cifrar una tarjeta de crédito.
-* Herramienta de mensajería interna de una organización de derechos humanos en
-  una zona de conflicto.
-* Mensajería secreta para parejas.
+* Mensajería secreta para niños que sufren cualquier tipo de abuso o maltrato infantil.
+![Criptomanía-Kids](src/imagen/cipher.png)
 
-### CRIPTOMANÍA KIDS
+# CRIPTOMANÍA KIDS
 
 **En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.**
 
-  ## 3. ¿Cómo usar la app Criptomanía-Kids***
+## 3. ¿Cómo usar la app Criptomanía-Kids***
 
   - INSTRUCCIONES DE USO:
   *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
 
-  ### 1.PASOS PARA CIFRAR
+  1.PASOS PARA CIFRAR
     - Escribe lo que deseas cifar.
     - Elige tu número favorito
     - Dale click en el botón "JUGAR CIFRAR"
@@ -74,7 +65,7 @@ ejemplo:
     - Darle al botón enviar
   ---
 
-  ### 2.PASOS PARA DESCIFRAR
+  2.PASOS PARA DESCIFRAR
     - Escribe lo que deseas descifar.
     - Elige tu número favorito
     - Dale click en el botón "JUGAR DESCIFRAR"
@@ -98,13 +89,13 @@ ejemplo:
   - Disminuir la violencia en los hogares.
   - Brindar ayuda psicológica y evitar futuros actos de violencia.
 
-  ### 4.PRIMER PROTOTIPO DE PAPEL
+## 4.PROTOTIPO DE PAPEL
   -Mi primer prototio en papel, teniendo en cuenta las historias de usuario
 
-  - ![Primer prototipo](src/Imagen/Primerprototipo.jpeg)
+  - ![Primer prototipo](src/imagen/Primerprototipo.jpeg)
 
 
-  ### El feedback en cuanto al proyecto: 
+  El feedback en cuanto al proyecto: 
   * Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
   * Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
   * En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
@@ -113,25 +104,23 @@ ejemplo:
 
   ***En casa testee el proyecto con mi hijo, al cual le gustó y dijo que parecía un juego***
 
-  ### Imagen del prototipo final.
+## 5. PROTOTIPO BALSAMIQ
+
+  Imagen del prototipo final.
   
   - Este es el prototipo final de mi proyecto, realizado en balsamiq
-  - ![Prototipo final](src/Imagen/balsamiq.png)
+  - ![Prototipo final](src/imagen/balsamiq.png)
 
-  ### EL FLUJO DEL PROYECTO
-  - ![Diagrama](src/Imagen/diagrama.png)
+  EL FLUJO DEL PROYECTO
+  - ![Diagrama](src/imagen/diagrama.png)
 
-  ---
-  >Cada día aprendo más, aunque muchas veces me encontré en la parte roja del garabato, gracias a las coachs, pude salir de ello, y a que leí.
-
-  ***¡Sé que puedo dar más, seguiré esforzándome!***
   
   
 
 
 
 
-##### `src/index.html` 
+<!--##### `src/index.html` 
 
   Este es el punto de entrada a tu aplicación. Este archivo
   debe contener tu _markup_ (HTML) e incluir el CSS y JavaScript necesario.
@@ -309,3 +298,4 @@ Organización del Trabajo:
   poco a lo largo del -_bootcamp_.
 * [Guía para Cifrado César](https://docs.google.com/presentation/d/e/2PACX-1vTQ7-8LZDHrT4Y6AOBN72Nkfz1eJAeseBHpcHX8BSq0aFCFoZmuMjluMeyFNgK9ISKxTz0H03yGfJiT/pub?start=false&loop=false&delayms=60000)
 
+-->
