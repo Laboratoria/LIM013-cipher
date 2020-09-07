@@ -54,65 +54,65 @@ La temática es kids, una web disfrazada de juego para:
 
 ## 3. ¿Cómo usar la app Criptomanía-Kids***
 
-  - INSTRUCCIONES DE USO:
-  *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
+- INSTRUCCIONES DE USO:
+*El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
 
-  1.PASOS PARA CIFRAR
-    - Escribe lo que deseas cifar.
-    - Elige tu número favorito
-    - Dale click en el botón "JUGAR CIFRAR"
-    - Verás el mensaje cifrado
-    - Darle al botón enviar
-  ---
+1.PASOS PARA CIFRAR
+- Escribe lo que deseas cifar.
+- Elige tu número favorito
+- Dale click en el botón "JUGAR CIFRAR"
+- Verás el mensaje cifrado
+- Darle al botón enviar
+---
 
-  2.PASOS PARA DESCIFRAR
-    - Escribe lo que deseas descifar.
-    - Elige tu número favorito
-    - Dale click en el botón "JUGAR DESCIFRAR"
-    - Verás el mensaje descifrado
-    - Darle al botón enviar
+2.PASOS PARA DESCIFRAR
+- Escribe lo que deseas descifar.
+- Elige tu número favorito
+- Dale click en el botón "JUGAR DESCIFRAR"
+- Verás el mensaje descifrado
+- Darle al botón enviar
   
 
- - El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la 
- idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al 
- gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para 
- darle mayor seguridad.
+El siguiente proyecto ha sido pensado para poner un alto a los actos de violencia, en contra de los niños, la 
+idea es que sea lo más parecido a un juego, para evitar ser descubierto. La iniciativa puede ser planteada al 
+gobierno, aunque hoy en día el código césar no es tan seguro, se podría implementar al proyecto símbología para 
+darle mayor seguridad.
 
-  >Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
+>Los principales usuarios son niñ@s que sufren cualquier tipo de violencia/agresión, tanto para su persona como en sus casas.
 
-  >A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
-  encriptando sus mensajes para evitar ser descubiertos por su agresor.
-  Ministerio de protección del niño, niña y adolescente)
+>A través de una app, disfrazada de juego infantil, los niños podrán enviar mensajes de ayudar para salvaguardar su bienestar, 
+encriptando sus mensajes para evitar ser descubiertos por su agresor.
+Ministerio de protección del niño, niña y adolescente)
 
-  - El producto soluciona los problemas/necesidades de dichos usuarios, considerando lo sgte:
-  - Canalizar mensajes de ayuda.
-  - Disminuir la violencia en los hogares.
-  - Brindar ayuda psicológica y evitar futuros actos de violencia.
+- El producto soluciona los problemas/necesidades de dichos usuarios, considerando lo sgte:
+- Canalizar mensajes de ayuda.
+- Disminuir la violencia en los hogares.
+- Brindar ayuda psicológica y evitar futuros actos de violencia.
 
 ## 4.PROTOTIPO DE PAPEL
-  -Mi primer prototio en papel, teniendo en cuenta las historias de usuario
+Mi primer prototio en papel, teniendo en cuenta las historias de usuario
 
-  - ![Primer prototipo](src/imagen/Primerprototipo.jpeg)
+![Primer prototipo](src/imagen/Primerprototipo.jpeg)
 
 
-  El feedback en cuanto al proyecto: 
-  * Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
-  * Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
-  * En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
-  * En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
-  Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto. 
+El feedback en cuanto al proyecto: 
+* Mis compañeras de squad indican que les agrada la idea y el objetivo del uso de la app cipher.
+* Una de las coach: Génesis, opinó que le gusta la idea, y que ella trabaja en proyectos para niños.
+* En mi primer demo, las chicas opinaron que les gustó el fondo y los colores.
+* En un 2do demo me sugirieron colocar los botones entre el cuadro de inicio de texto y el cuadro de resultados, ya que estaban ubicados en la parte inferior.
+Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto. 
 
-  ***En casa testee el proyecto con mi hijo, al cual le gustó y dijo que parecía un juego***
+***En casa testee el proyecto con mi hijo, al cual le gustó y dijo que parecía un juego***
 
 ## 5. PROTOTIPO BALSAMIQ
 
-  Imagen del prototipo final.
+Imagen del prototipo final.
   
-  - Este es el prototipo final de mi proyecto, realizado en balsamiq
-  - ![Prototipo final](src/imagen/balsamiq.jpeg)
+Este es el prototipo final de mi proyecto, realizado en balsamiq
+![Prototipo final](src/imagen/balsamiq.jpeg)
 
-  EL FLUJO DEL PROYECTO
-  - ![Diagrama](src/imagen/diagrama.jpeg)
+EL FLUJO DEL PROYECTO
+![Diagrama](src/imagen/diagrama.jpeg)
 
   
   
