@@ -101,7 +101,7 @@ ejemplo:
   ### 4.PRIMER PROTOTIPO DE PAPEL
   -Mi primer prototio en papel, teniendo en cuenta las historias de usuario
 
-  - ![Primer prototipo](Imagen/Primerprototipo.jpeg)
+  - ![Primer prototipo](src/Imagen/Primerprototipo.jpeg)
 
 
   ### El feedback en cuanto al proyecto: 
@@ -116,10 +116,10 @@ ejemplo:
   ### Imagen del prototipo final.
   
   - Este es el prototipo final de mi proyecto, realizado en balsamiq
-  - ![Prototipo final](Imagen/balsamiq.png)
+  - ![Prototipo final](src/Imagen/balsamiq.png)
 
   ### EL FLUJO DEL PROYECTO
-  - ![Diagrama](Imagen/diagrama.png)
+  - ![Diagrama](src/Imagen/diagrama.png)
 
   ---
   >Cada día aprendo más, aunque muchas veces me encontré en la parte roja del garabato, gracias a las coachs, pude salir de ello, y a que leí.
