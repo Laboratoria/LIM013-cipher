@@ -46,6 +46,7 @@ un desplazamiento específico de caracteres (_offset_).
 La temática es kids, una web disfrazada de juego para: 
 
 * Mensajería secreta para niños que sufren cualquier tipo de abuso o maltrato infantil.
+
 ![Criptomanía-Kids](src/imagen/cipher.jpeg)
 
 # CRIPTOMANÍA KIDS
@@ -54,7 +55,8 @@ La temática es kids, una web disfrazada de juego para:
 
 ## 3. ¿Cómo usar la app Criptomanía-Kids***
 
-- INSTRUCCIONES DE USO:
+### INSTRUCCIONES DE USO:
+
 *El primer paso es buscar Criptomanía-Kids, una vez encontrada, se procede según lo que el usuario desea a:*
 
 1.PASOS PARA CIFRAR
@@ -63,7 +65,6 @@ La temática es kids, una web disfrazada de juego para:
 - Dale click en el botón "JUGAR CIFRAR"
 - Verás el mensaje cifrado
 - Darle al botón enviar
----
 
 2.PASOS PARA DESCIFRAR
 - Escribe lo que deseas descifar.
@@ -84,7 +85,7 @@ darle mayor seguridad.
 encriptando sus mensajes para evitar ser descubiertos por su agresor.
 Ministerio de protección del niño, niña y adolescente)
 
-- El producto soluciona los problemas/necesidades de dichos usuarios, considerando lo sgte:
+#### El producto soluciona los problemas/necesidades de dichos usuarios, considerando lo sgte:
 - Canalizar mensajes de ayuda.
 - Disminuir la violencia en los hogares.
 - Brindar ayuda psicológica y evitar futuros actos de violencia.
@@ -109,9 +110,11 @@ Me gustó recibir feedback, siento que ayudó mucho a la mejora del proyecto.
 Imagen del prototipo final.
   
 Este es el prototipo final de mi proyecto, realizado en balsamiq
+
 ![Prototipo final](src/imagen/balsamiq.jpeg)
 
 EL FLUJO DEL PROYECTO
+
 ![Diagrama](src/imagen/diagrama.jpeg)
 
   
