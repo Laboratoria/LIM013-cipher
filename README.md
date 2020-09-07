@@ -46,7 +46,7 @@ un desplazamiento específico de caracteres (_offset_).
 La temática es kids, una web disfrazada de juego para: 
 
 * Mensajería secreta para niños que sufren cualquier tipo de abuso o maltrato infantil.
-![Criptomanía-Kids](src/imagen/cipher.png)
+![Criptomanía-Kids](src/imagen/cipher.jpeg)
 
 # CRIPTOMANÍA KIDS
 
@@ -109,10 +109,10 @@ La temática es kids, una web disfrazada de juego para:
   Imagen del prototipo final.
   
   - Este es el prototipo final de mi proyecto, realizado en balsamiq
-  - ![Prototipo final](src/imagen/balsamiq.png)
+  - ![Prototipo final](src/imagen/balsamiq.jpeg)
 
   EL FLUJO DEL PROYECTO
-  - ![Diagrama](src/imagen/diagrama.png)
+  - ![Diagrama](src/imagen/diagrama.jpeg)
 
   
   
