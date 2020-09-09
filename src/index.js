@@ -2,12 +2,10 @@
 import cipher from './cipher.js';
 //console.log('cipher   c ');
 
-//crear variable para traer el cuadro de texto del html
-//txt_entrada= document.getElementById("txt_inicio");
-
 //Dar funciones a los botones en HTML
 //boton encriptar
-document.getElementById("encriptar").addEventListener("click", function(){
+document.getElementById("encriptar").addEventListener("click", 
+function(){
 let txt_entrada= document.getElementById("txt_inicio");
 let desplazamiento= parseInt(document.getElementById("desplazamiento").value);
 //console.log(desplazamiento);
@@ -25,7 +23,8 @@ document.getElementById("txt_salida").textContent=resultado;
 
 })
 //boton desencriptar
-document.getElementById("desencriptar").addEventListener("click", function(){
+document.getElementById("desencriptar").addEventListener("click", 
+function(){
     let txt_entrada= document.getElementById("txt_inicio");
     let desplazamiento= parseInt(document.getElementById("desplazamiento").value);
 
@@ -44,7 +43,8 @@ document.getElementById("txt_salida").textContent=resultado;
 })
 
 //boton delete
-//document.getElementById("delete").addEventListener("click", function(){
+//document.getElementById("delete").addEventListener("click", 
+//function(){
 //let desplazamiento= parseInt(document.getElementById("desplazamiento").value);
 //let texto = txt_entrada.value;
 //console.log(texto);
