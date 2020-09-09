@@ -54,9 +54,9 @@ La temática es kids, una web disfrazada de juego para:
 
 # CRIPTOMANÍA KIDS
 
-**En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.**
+En criptografía, el cifrado César, también conocido como cifrado por desplazamiento, código de César o desplazamiento de César, es una de las técnicas decodificación más simples y más usadas. Es un tipo de cifrado por sustitución en el que una letra en el texto original es reemplazada por otra letra que se encuentra un número fijo de posiciones más adelante en el alfabeto.
 
-## 3. ¿Cómo usar la app Criptomanía-Kids***
+## 3. ¿Cómo usar la app Criptomanía-Kids
 
 ### INSTRUCCIONES DE USO:
 
