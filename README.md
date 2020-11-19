@@ -4,12 +4,9 @@
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
-<<<<<<< HEAD
-=======
 * [3. Uso de la app](#3-Uso-de-la-App)
 * [4. Prototipo de papel](#4-Prototipo-de-papel)
 * [5. Prototipo Balsamiq](#5-Prototipo-Balsamiq)
->>>>>>> 6e7a965f7fda08d5d690468971470bc9abde9d18
 
 ***
 
