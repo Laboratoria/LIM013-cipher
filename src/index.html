@@ -2,13 +2,35 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <title>Cesar Cipher</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximun-scale=1.0, minimun-scale=1.0">
   </head>
-  <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
+  
+    <body background="https://cdn.lingokids.com/system/images/W1siZiIsIjIwMTgvMDIvMjEvMTEvMDkvMjIvZGE0ZDExNDQtY2RlMC00YmMxLTg3YWMtMDJhMTEzMDJjNzNlLzAwLnBuZyJdXQ/bf1d60deb1b6919a/00.png">
+    <header>
+      <img class="imagen" src="Imagen\logo.png">
+      <h1>HOLA JUGADOR!</h1>
+      <h2>¡Bienvenido a Criptomanía Kids!</h2>
+    </header>
+
+    <main rol="main">
+      <div class="container">
+        <textarea class="text" value="" id="txt_inicio" placeholder="Ingresa texto"></textarea>
+        <p>
+          <button type="submit" id="encriptar">JUGAR CONVERSIÓN</button>
+          <button type="submit" id="desencriptar">JUGAR DESCOVERSIÓN</button>
+          <input type="reset" id="delete">
+          <input type="number" min="-127" max="127" value="" id="desplazamiento" placeholder="Elige número favorito">
+          <a title="img" href="https://api.whatsapp.com/send?phone=51987712998"><img src="Imagen\icon.jpeg" alt="img"/></a> 
+        </p>
+        <p class="text" id="txt_salida"></p>
+      </div>
+    </main>
+    
+    <footer>
+      <p>&#169; By Daniela De la cruz</p>
+    </footer>
     <script src="index.js" type="module"></script>
   </body>
 </html>

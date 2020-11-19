@@ -1,0 +1,148 @@
+h1 {
+    color:orangered;
+    font-family:'Bauhaus 93';
+    font-size: 50px;
+    margin: 0% 20% 0% 20%;
+    text-align: center;
+    }
+h2 {
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0% 20% 2% 20%;
+    text-align: center;
+    }
+h3 {
+    text-align: center;
+    width: 70%;
+}
+.imagen{
+    height: 120px;
+    width: 260px;
+    margin: 20px 10px 20px 10px;
+    display: block;
+    border-radius: 5px;
+    }
+
+.imagen1{
+    height: 160px;
+    width: 160px;
+    margin: 0% 0% 0% 0%;
+    border-radius: 5px;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+}
+#txt_inicio{
+
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: grey; 
+    padding:0;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 10cm;
+    margin: 0px 5px 0px 0px;
+    }
+
+/*Mostramos Cuadro de resultados*/
+#txt_salida{
+    background: white ;
+    font-size:20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black; 
+    padding:0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    height: 10cm;
+    width: 100%;
+    margin:0px 0px 0px 5px;
+    }
+
+#desplazamiento{
+    background-attachment: fixed;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 295px;
+    height: 45px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 0px 0px 5px 0px;
+    }
+p{
+    margin: 0% 10% 0% 10%;
+    text-align: center;
+}
+
+#encriptar{
+    background-attachment: fixed;
+    background: skyblue;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 0px 0px 5px 0px;
+    }
+
+#desencriptar{
+    background-attachment: fixed;
+    background: lightgreen;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 0px 0px 5px 0px;
+    }
+#delete{
+    background-attachment: fixed;
+    background: yellowgreen;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    border-radius: 5px;
+    margin: 0px 0px 5px 0px;
+    }
+
+#send{
+    background-attachment: fixed;
+    background: orangered;
+    font-family:'Franklin Gothic Medium';
+    font-size:18px;
+    color: black;
+    width: 300px;
+    height: 50px;
+    border-radius: 3px;
+}
+footer{
+    margin-top: 90px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+/*@media screen and (min-width: 600px){
+    #root{
+        width: 100%;
+    }
+    body{
+        width: 100%;
+        height: auto;
+    }
+}
+Agregamos otro media query, para ajustar texo al 100%
+@media screen and (min-width: 600px){
+    #root{
+        width: 100%;
+    }
+}
+*/
